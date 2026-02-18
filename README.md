@@ -14,7 +14,7 @@ Genre
 Customer information
 Invoice
 InvoiceLine
-Employee
+Employee.
 
 SQL Concepts Covered:
 SELECT, WHERE, ORDER BY
@@ -22,10 +22,10 @@ JOINS (INNER, LEFT, RIGHT)
 GROUP BY & HAVING
 Aggregate Functions (SUM, COUNT, AVG)
 Subqueries
-Common Table Expressions (CTE)
+Common Table Expressions (CTE).
 
 Tools & Technologies:
-PgAdmin4
-PostgreSQL
-GitHub
-Excel
+PgAdmin4, 
+PostgreSQL,
+GitHub,
+Excel.
